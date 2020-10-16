@@ -36,4 +36,4 @@ Will have either a double jump and/or dash. Maybe even a double dash.
 Plays music in sync with the platforms. Must be funky, lol.
 
 
-Date Started: 10/12/2020
+Date Started: 10/12/2020.
